@@ -1,0 +1,15 @@
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\bin\Debug\net6.0\HomeWorkSeminar6.exe
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\bin\Debug\net6.0\HomeWorkSeminar6.deps.json
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\bin\Debug\net6.0\HomeWorkSeminar6.runtimeconfig.json
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\bin\Debug\net6.0\HomeWorkSeminar6.dll
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\bin\Debug\net6.0\HomeWorkSeminar6.pdb
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.csproj.AssemblyReference.cache
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.AssemblyInfoInputs.cache
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.AssemblyInfo.cs
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.csproj.CoreCompileInputs.cache
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.dll
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\refint\HomeWorkSeminar6.dll
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.pdb
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\HomeWorkSeminar6.genruntimeconfig.cache
+D:\HomeWorkSeminar6LanguageProgramm\HomeWorkSeminar6\obj\Debug\net6.0\ref\HomeWorkSeminar6.dll
